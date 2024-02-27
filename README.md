@@ -5,14 +5,15 @@
 https://github.com/frontend-everyone/website-seo/releases/tag/0.1.0  
 
 TODO:  
+  · 提供Windows、linux 版本
 
-  1、提供Windows、linux 版本
+  · 定时查询  
+  
+  · 定时推送  
+  
+  · 提供API  
 
-  2、定时查询  
-  
-  3、定时推送  
-  
-  4、提供API  
+  · 批量网站收录批量查询
   
 google 需要科学上网
   
