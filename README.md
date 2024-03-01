@@ -6,7 +6,7 @@ https://github.com/frontend-everyone/website-seo/releases/tag/0.1.0
 google 需要科学上网
 
 **TODO**
-  - [ ] 查询记录  
+  - [x] 查询记录  
   - [ ] 提供Windows、linux 版本
   - [ ] 定时查询
   - [ ] 定时推送到微信公众号、企业微信、邮箱等
