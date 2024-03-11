@@ -5,7 +5,7 @@
 https://github.com/frontend-everyone/website-seo/releases/tag/0.3.0  
 google 需要科学上网
 
-GPTS
+GPTS Website-seo、Website Index
 https://chat.openai.com/g/g-vpdgW4Nmr-wang-zhan-seo-wang-zhan-gong-ju-zhan-chang-gong-ju
 
 **TODO**
