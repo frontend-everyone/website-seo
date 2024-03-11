@@ -5,6 +5,9 @@
 https://github.com/frontend-everyone/website-seo/releases/tag/0.3.0  
 google 需要科学上网
 
+GPTS
+https://chat.openai.com/g/g-vpdgW4Nmr-wang-zhan-seo-wang-zhan-gong-ju-zhan-chang-gong-ju
+
 **TODO**
   - [x] 查询记录  
   - [x] 提供Windows 版本
